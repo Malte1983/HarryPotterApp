@@ -1,0 +1,25 @@
+{
+  "name": "harrypotterapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malte1983/HarryPotterApp.git"
+  },
+  "author": "Malte Scherdin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Malte1983/HarryPotterApp/issues"
+  },
+  "homepage": "https://github.com/Malte1983/HarryPotterApp#readme",
+  "dependencies": {
+    "node": "^16.6.1",
+    "prettier": "^2.4.0",
+    "vite": "^2.5.6"
+  }
+}
